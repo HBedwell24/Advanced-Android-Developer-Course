@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Mon Sep 23 21:28:46 EDT 2019
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\bagge\\Documents\\SimpleAccessibility_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-0.path=classes.dex
-0.set=DEX
-count=1

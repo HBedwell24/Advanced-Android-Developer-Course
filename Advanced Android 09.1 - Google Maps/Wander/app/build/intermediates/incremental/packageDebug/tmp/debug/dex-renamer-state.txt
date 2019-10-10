@@ -1,4 +1,0 @@
-#Tue Sep 24 12:00:35 EDT 2019
-base.0=C\:\\Users\\bagge\\Documents\\Google-Codelabs-Exercises\\Advanced Android 09.1 - Google Maps\\Wander\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex

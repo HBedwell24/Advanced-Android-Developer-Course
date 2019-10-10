@@ -1,2 +1,0 @@
-# Referenced at C:\Users\bagge\Documents\WalkMyAndroid\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28
--keep class androidx.multidex.MultiDexApplication { <init>(...); }

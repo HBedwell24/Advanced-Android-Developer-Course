@@ -1,4 +1,0 @@
-#Thu Sep 19 22:50:31 EDT 2019
-base.0=C\:\\Users\\bagge\\Documents\\android-advanced-starter-apps\\LocaleText3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
