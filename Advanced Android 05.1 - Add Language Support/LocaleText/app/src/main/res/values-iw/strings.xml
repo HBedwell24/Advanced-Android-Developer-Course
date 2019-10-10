@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">טקסט מיקום</string>
+    <string name="action_help">לעזור</string>
+    <string name="description">נוגט הוא משפחה של סוכריות העשויות מסוכר או דבש, אגוזים קלויים (שקדים, אגוזי מלך, פיסטוקים, אגוזי לוז ואגוזי מקדמיה שכיחים), חלבוני ביצה טרופה ולעיתים גם פירות מסוכרים קצוץ. משתמשים בו במגוון פינוקים ושוקולדים.</string>
+    <string name="help_text">אם אתה זקוק לעזרה, צור קשר עם דלפק העזרה שלנו.</string>
+    <string name="nougat">מארז ממתקים של נוגט</string>
+    <string name="language">שפה</string>
+</resources>

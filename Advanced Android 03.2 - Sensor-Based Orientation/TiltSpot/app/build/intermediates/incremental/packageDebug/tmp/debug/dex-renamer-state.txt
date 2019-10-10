@@ -1,0 +1,4 @@
+#Sun Sep 22 12:29:03 EDT 2019
+base.0=C\:\\Users\\bagge\\Documents\\android-advanced-starter-apps\\TiltSpot_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Walk My Android</string>
+    <string name="get_location">Start Tracking Location</string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="android_image">Android Image</string>
+    <string name="textview_hint">Press the button to start tracking your location</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Lat-Long Used</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">Loading…</string>
+    <string name="stop_tracking_location">Stop tracking location</string>
+    <string name="start_tracking_location">Start tracking location</string>
+</resources>
