@@ -1,0 +1,4 @@
+#Sun Oct 13 12:10:47 EDT 2019
+base.0=C\:\\Users\\bagge\\Documents\\Advanced Android Developers Course\\Advanced Android 04.2 Part A - Profile GPU Rendering Tool\\LargeImages\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bagge\\Documents\\Advanced Android Developers Course\\Advanced Android 04.2 Part A - Profile GPU Rendering Tool\\LargeImages\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bagge\\.gradle\\caches\\transforms-2\\files-2.1\\83f314aad6a5e02ef6d8497ee1d72370\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

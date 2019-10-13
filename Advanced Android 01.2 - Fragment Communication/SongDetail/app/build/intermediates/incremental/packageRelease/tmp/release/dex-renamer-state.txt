@@ -1,0 +1,4 @@
+#Fri Oct 11 22:13:55 EDT 2019
+base.0=C\:\\Users\\bagge\\Documents\\android-advanced-starter-apps-master\\SongDetail_start\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
